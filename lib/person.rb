@@ -1,5 +1,5 @@
 class Person
-  initialize(name)
+  initialize
   @name = name
 end
 end
